@@ -18,7 +18,7 @@ public class SpringGitJenkinsIntegrationApplication {
 	}
 
 	public static void main(String[] args) {
-		log.info("Application executed");
+		log.info("Application executed once");
 		SpringApplication.run(SpringGitJenkinsIntegrationApplication.class, args);
 	}
 
