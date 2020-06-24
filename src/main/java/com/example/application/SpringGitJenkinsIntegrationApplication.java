@@ -19,7 +19,7 @@ public class SpringGitJenkinsIntegrationApplication {
 
 	public static void main(String[] args) {
 
-		log.info("Application executed added tHREE");
+		log.info("Application executed added four");
 
 		SpringApplication.run(SpringGitJenkinsIntegrationApplication.class, args);
 	}
