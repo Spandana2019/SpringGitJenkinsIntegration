@@ -19,7 +19,7 @@ public class SpringGitJenkinsIntegrationApplication {
 
 	public static void main(String[] args) {
 
-		log.info("Application executed added twice");
+		log.info("Application executed added tHREE");
 
 		SpringApplication.run(SpringGitJenkinsIntegrationApplication.class, args);
 	}
